@@ -1,0 +1,80 @@
+{
+  "providerList": [
+    {
+      "providerName": "Javits Center",
+      "address": "New York, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerName": "Jones Beach - Field 3",
+      "address": "Wantagh, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerName": "State Fair Expo Center: NYS Fairgrounds",
+      "address": "Syracuse, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerName": "SUNY Albany ",
+      "address": "Albany, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerName": "Westchester County Center",
+      "address": "White Plains, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerName": "SUNY Stony Brook University Innovation and Discovery Center",
+      "address": "Stony Brook, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerName": "SUNY Potsdam Field House",
+      "address": "Potsdam, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerName": "Aqueduct Racetrack - Racing Hall",
+      "address": "South Ozone Park, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerName": "Plattsburgh International Airport -Connecticut Building",
+      "address": "Plattsburgh, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerName": "SUNY Binghamton",
+      "address": "Johnson City, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerName": "SUNY Polytechnic Institute - Wildcat Field House",
+      "address": "Utica, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerName": "University at Buffalo South Campus - Harriman Hall",
+      "address": "Buffalo, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerName": "Rochester Dome Arena",
+      "address": "Henrietta, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerName": "**York College – Health and Physical Education Complex - Queens ",
+      "address": "Jamaica, NY",
+      "availableAppointments": "AA"
+    },
+    {
+      "providerName": "**Medgar Evers College - Brooklyn",
+      "address": "Brooklyn, NY",
+      "availableAppointments": "AA"
+    }
+  ],
+  "lastUpdated": "2/23/2021, 9:21:52 PM"
+}
