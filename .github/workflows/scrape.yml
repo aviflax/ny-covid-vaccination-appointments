@@ -1,0 +1,29 @@
+# Initially copied from https://github.com/simonw/ca-fires-history/blob/d8f38a74b06fb7447bacec2c6e1bb524b2484099/.github/workflows/scrape.yml
+# Many thanks to Simon Willison for refining and describing the technique of Git scraping.
+# His excellent post on the topic: https://simonwillison.net/2020/Oct/9/git-scraping/
+
+name: Scrape latest data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '6,26,46 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Fetch latest data
+      run: |-
+        curl https://am-i-eligible.covid19vaccine.health.ny.gov/api/list-providers | jq . > appointment-availability.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
