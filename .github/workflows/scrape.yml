@@ -21,9 +21,28 @@ jobs:
         curl https://am-i-eligible.covid19vaccine.health.ny.gov/api/list-providers | jq . > appointment-availability.json
     - name: Commit and push if it changed
       run: |-
+        DIFF=$(git diff)
+
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
         git add -A
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
+        
+        echo "::set-env name=CHANGED::true"
+        echo "::set-env name=DIFF::${DIFF}"
+    - name: Send email if it changed
+      if: env.CHANGED == 'true'
+      uses: dawidd6/action-send-mail@v2
+      with:
+        server_address: smtp.gmail.com
+        server_port: 465
+        username: ${{secrets.MAIL_USERNAME}}
+        password: ${{secrets.MAIL_PASSWORD}}
+        subject: NY COVID Vaccination Appointment Availability Change
+        convert_markdown: true
+        body: |
+          ```diff
+          ${{env.DIFF}}
+          ```
