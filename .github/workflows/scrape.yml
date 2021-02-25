@@ -31,8 +31,11 @@ jobs:
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
         
-        echo "::set-env name=CHANGED::true"
-        echo "::set-env name=DIFF::${DIFF}"
+        echo "CHANGED=true" >> $GITHUB_ENV
+        
+        echo "DIFF<<EOF" >> $GITHUB_ENV
+        echo "$DIFF" >> $GITHUB_ENV
+        echo 'EOF' >> $GITHUB_ENV
     - name: Send email if it changed
       if: env.CHANGED == 'true'
       uses: dawidd6/action-send-mail@v2
