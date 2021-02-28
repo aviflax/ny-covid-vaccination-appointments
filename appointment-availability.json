@@ -13,17 +13,17 @@
     {
       "providerName": "State Fair Expo Center: NYS Fairgrounds",
       "address": "Syracuse, NY",
-      "availableAppointments": "NAC"
+      "availableAppointments": "AA"
     },
     {
       "providerName": "SUNY Albany ",
       "address": "Albany, NY",
-      "availableAppointments": "AA"
+      "availableAppointments": "NAC"
     },
     {
       "providerName": "Westchester County Center",
       "address": "White Plains, NY",
-      "availableAppointments": "AA"
+      "availableAppointments": "NAC"
     },
     {
       "providerName": "SUNY Stony Brook University Innovation and Discovery Center",
@@ -33,12 +33,12 @@
     {
       "providerName": "SUNY Potsdam Field House",
       "address": "Potsdam, NY",
-      "availableAppointments": "NAC"
+      "availableAppointments": "AA"
     },
     {
       "providerName": "Aqueduct Racetrack - Racing Hall",
       "address": "South Ozone Park, NY",
-      "availableAppointments": "AA"
+      "availableAppointments": "NAC"
     },
     {
       "providerName": "Plattsburgh International Airport -Connecticut Building",
@@ -53,7 +53,7 @@
     {
       "providerName": "SUNY Polytechnic Institute - Wildcat Field House",
       "address": "Utica, NY",
-      "availableAppointments": "NAC"
+      "availableAppointments": "AA"
     },
     {
       "providerName": "University at Buffalo South Campus - Harriman Hall",
@@ -63,7 +63,7 @@
     {
       "providerName": "Rochester Dome Arena",
       "address": "Henrietta, NY",
-      "availableAppointments": "AA"
+      "availableAppointments": "NAC"
     },
     {
       "providerName": "**York College - Health and Physical Education Complex - Queens ",
