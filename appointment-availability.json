@@ -18,12 +18,12 @@
     {
       "providerName": "SUNY Albany ",
       "address": "Albany, NY",
-      "availableAppointments": "NAC"
+      "availableAppointments": "AA"
     },
     {
       "providerName": "Westchester County Center",
       "address": "White Plains, NY",
-      "availableAppointments": "NAC"
+      "availableAppointments": "AA"
     },
     {
       "providerName": "SUNY Stony Brook University Innovation and Discovery Center",
@@ -38,17 +38,17 @@
     {
       "providerName": "Aqueduct Racetrack - Racing Hall",
       "address": "South Ozone Park, NY",
-      "availableAppointments": "NAC"
+      "availableAppointments": "AA"
     },
     {
       "providerName": "Plattsburgh International Airport -Connecticut Building",
       "address": "Plattsburgh, NY",
-      "availableAppointments": "NAC"
+      "availableAppointments": "AA"
     },
     {
       "providerName": "SUNY Binghamton",
       "address": "Johnson City, NY",
-      "availableAppointments": "NAC"
+      "availableAppointments": "AA"
     },
     {
       "providerName": "SUNY Polytechnic Institute - Wildcat Field House",
@@ -63,7 +63,7 @@
     {
       "providerName": "Rochester Dome Arena",
       "address": "Henrietta, NY",
-      "availableAppointments": "NAC"
+      "availableAppointments": "AA"
     },
     {
       "providerName": "**York College - Health and Physical Education Complex - Queens ",
