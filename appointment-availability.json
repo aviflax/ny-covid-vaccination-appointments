@@ -55,26 +55,20 @@
       "availableAppointments": "AA"
     },
     {
-      "providerId": 1021,
-      "providerName": "Marist College - Poughkeepsie ",
-      "address": "Poughkeepsie, NY",
-      "availableAppointments": "AA"
-    },
-    {
       "providerId": 1017,
       "providerName": "**Former Kodak Hawkeye Parking Lot - Rochester",
       "address": "Rochester, NY",
       "availableAppointments": "AA"
     },
     {
-      "providerId": 1002,
-      "providerName": "State Fair Expo Center: NYS Fairgrounds - 8:00am – 7:00pm",
+      "providerId": 1020,
+      "providerName": "State Fair Expo Center: NYS Fairgrounds - 10:00pm – 6:00am",
       "address": "Syracuse, NY",
       "availableAppointments": "AA"
     },
     {
-      "providerId": 1020,
-      "providerName": "State Fair Expo Center: NYS Fairgrounds - 9:00pm – 6:00am",
+      "providerId": 1002,
+      "providerName": "State Fair Expo Center: NYS Fairgrounds - 8:00am – 7:00pm",
       "address": "Syracuse, NY",
       "availableAppointments": "AA"
     },
@@ -118,6 +112,12 @@
       "providerId": 1013,
       "providerName": "**York College - Health and Physical Education Complex - Queens ",
       "address": "Jamaica, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerId": 1021,
+      "providerName": "Marist College - Poughkeepsie ",
+      "address": "Poughkeepsie, NY",
       "availableAppointments": "NAC"
     },
     {
