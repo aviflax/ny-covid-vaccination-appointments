@@ -7,18 +7,6 @@
       "availableAppointments": "AA"
     },
     {
-      "providerId": 1014,
-      "providerName": "**Medgar Evers College - Brooklyn",
-      "address": "Brooklyn, NY",
-      "availableAppointments": "AA"
-    },
-    {
-      "providerId": 1009,
-      "providerName": "SUNY Binghamton",
-      "address": "Johnson City, NY",
-      "availableAppointments": "AA"
-    },
-    {
       "providerId": 1008,
       "providerName": "Plattsburgh International Airport -Connecticut Building",
       "address": "Plattsburgh, NY",
@@ -28,12 +16,6 @@
       "providerId": 1006,
       "providerName": "SUNY Potsdam Field House",
       "address": "Potsdam, NY",
-      "availableAppointments": "AA"
-    },
-    {
-      "providerId": 1017,
-      "providerName": "**Former Kodak Hawkeye Parking Lot - Rochester",
-      "address": "Rochester, NY",
       "availableAppointments": "AA"
     },
     {
@@ -67,6 +49,12 @@
       "availableAppointments": "NAC"
     },
     {
+      "providerId": 1014,
+      "providerName": "**Medgar Evers College - Brooklyn",
+      "address": "Brooklyn, NY",
+      "availableAppointments": "NAC"
+    },
+    {
       "providerId": 1018,
       "providerName": "**Delavan Grider Community Center - Buffalo",
       "address": "Buffalo, NY",
@@ -91,6 +79,12 @@
       "availableAppointments": "NAC"
     },
     {
+      "providerId": 1009,
+      "providerName": "SUNY Binghamton",
+      "address": "Johnson City, NY",
+      "availableAppointments": "NAC"
+    },
+    {
       "providerId": 1000,
       "providerName": "Javits Center - 8:00am – 7:00pm",
       "address": "New York, NY",
@@ -112,6 +106,12 @@
       "providerId": 1021,
       "providerName": "Marist College - Poughkeepsie ",
       "address": "Poughkeepsie, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerId": 1017,
+      "providerName": "**Former Kodak Hawkeye Parking Lot - Rochester",
+      "address": "Rochester, NY",
       "availableAppointments": "NAC"
     },
     {
