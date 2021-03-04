@@ -31,12 +31,6 @@
       "availableAppointments": "AA"
     },
     {
-      "providerId": 1010,
-      "providerName": "SUNY Polytechnic Institute - Wildcat Field House",
-      "address": "Utica, NY",
-      "availableAppointments": "AA"
-    },
-    {
       "providerId": 1003,
       "providerName": "SUNY Albany ",
       "address": "Albany, NY",
@@ -124,6 +118,12 @@
       "providerId": 1005,
       "providerName": "SUNY Stony Brook University Innovation and Discovery Center",
       "address": "Stony Brook, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerId": 1010,
+      "providerName": "SUNY Polytechnic Institute - Wildcat Field House",
+      "address": "Utica, NY",
       "availableAppointments": "NAC"
     },
     {
