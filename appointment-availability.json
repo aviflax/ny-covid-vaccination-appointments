@@ -19,21 +19,9 @@
       "availableAppointments": "AA"
     },
     {
-      "providerId": 1000,
-      "providerName": "Javits Center - 8:00am – 7:00pm",
-      "address": "New York, NY",
-      "availableAppointments": "AA"
-    },
-    {
       "providerId": 1019,
       "providerName": "Javits Center - 9:00pm – 6:00am",
       "address": "New York, NY",
-      "availableAppointments": "AA"
-    },
-    {
-      "providerId": 1023,
-      "providerName": "Jamestown Community College - Olean Campus",
-      "address": "Olean, NY",
       "availableAppointments": "AA"
     },
     {
@@ -112,6 +100,18 @@
       "providerId": 1013,
       "providerName": "**York College - Health and Physical Education Complex - Queens ",
       "address": "Jamaica, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerId": 1000,
+      "providerName": "Javits Center - 8:00am – 7:00pm",
+      "address": "New York, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerId": 1023,
+      "providerName": "Jamestown Community College - Olean Campus",
+      "address": "Olean, NY",
       "availableAppointments": "NAC"
     },
     {
