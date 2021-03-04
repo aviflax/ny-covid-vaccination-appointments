@@ -25,12 +25,6 @@
       "availableAppointments": "AA"
     },
     {
-      "providerId": 1002,
-      "providerName": "State Fair Expo Center: NYS Fairgrounds - 8:00am – 7:00pm",
-      "address": "Syracuse, NY",
-      "availableAppointments": "AA"
-    },
-    {
       "providerId": 1003,
       "providerName": "SUNY Albany ",
       "address": "Albany, NY",
@@ -118,6 +112,12 @@
       "providerId": 1005,
       "providerName": "SUNY Stony Brook University Innovation and Discovery Center",
       "address": "Stony Brook, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerId": 1002,
+      "providerName": "State Fair Expo Center: NYS Fairgrounds - 8:00am – 7:00pm",
+      "address": "Syracuse, NY",
       "availableAppointments": "NAC"
     },
     {
