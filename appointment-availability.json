@@ -19,12 +19,6 @@
       "availableAppointments": "AA"
     },
     {
-      "providerId": 1019,
-      "providerName": "Javits Center - 9:00pm – 6:00am",
-      "address": "New York, NY",
-      "availableAppointments": "AA"
-    },
-    {
       "providerId": 1008,
       "providerName": "Plattsburgh International Airport -Connecticut Building",
       "address": "Plattsburgh, NY",
@@ -58,12 +52,6 @@
       "providerId": 1010,
       "providerName": "SUNY Polytechnic Institute - Wildcat Field House",
       "address": "Utica, NY",
-      "availableAppointments": "AA"
-    },
-    {
-      "providerId": 1015,
-      "providerName": "**New York National Guard Armory - Yonkers and Mount Vernon",
-      "address": "Yonkers, NY",
       "availableAppointments": "AA"
     },
     {
@@ -109,6 +97,12 @@
       "availableAppointments": "NAC"
     },
     {
+      "providerId": 1019,
+      "providerName": "Javits Center - 9:00pm – 6:00am",
+      "address": "New York, NY",
+      "availableAppointments": "NAC"
+    },
+    {
       "providerId": 1023,
       "providerName": "Jamestown Community College - Olean Campus",
       "address": "Olean, NY",
@@ -142,6 +136,12 @@
       "providerId": 1004,
       "providerName": "Westchester County Center",
       "address": "White Plains, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerId": 1015,
+      "providerName": "**New York National Guard Armory - Yonkers and Mount Vernon",
+      "address": "Yonkers, NY",
       "availableAppointments": "NAC"
     }
   ]
