@@ -19,12 +19,6 @@
       "availableAppointments": "AA"
     },
     {
-      "providerId": 1018,
-      "providerName": "**Delavan Grider Community Center - Buffalo",
-      "address": "Buffalo, NY",
-      "availableAppointments": "AA"
-    },
-    {
       "providerId": 1013,
       "providerName": "**York College - Health and Physical Education Complex - Queens ",
       "address": "Jamaica, NY",
@@ -100,6 +94,12 @@
       "providerId": 1003,
       "providerName": "SUNY Albany ",
       "address": "Albany, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerId": 1018,
+      "providerName": "**Delavan Grider Community Center - Buffalo",
+      "address": "Buffalo, NY",
       "availableAppointments": "NAC"
     },
     {
