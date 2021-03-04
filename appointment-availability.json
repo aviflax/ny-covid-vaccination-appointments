@@ -7,12 +7,6 @@
       "availableAppointments": "AA"
     },
     {
-      "providerId": 1022,
-      "providerName": "SUNY Genesee Community College - Batavia ",
-      "address": "Batavia, NY",
-      "availableAppointments": "AA"
-    },
-    {
       "providerId": 1014,
       "providerName": "**Medgar Evers College - Brooklyn",
       "address": "Brooklyn, NY",
@@ -88,6 +82,12 @@
       "providerId": 1003,
       "providerName": "SUNY Albany ",
       "address": "Albany, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerId": 1022,
+      "providerName": "SUNY Genesee Community College - Batavia ",
+      "address": "Batavia, NY",
       "availableAppointments": "NAC"
     },
     {
