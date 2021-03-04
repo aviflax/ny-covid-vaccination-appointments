@@ -19,12 +19,6 @@
       "availableAppointments": "AA"
     },
     {
-      "providerId": 1013,
-      "providerName": "**York College - Health and Physical Education Complex - Queens ",
-      "address": "Jamaica, NY",
-      "availableAppointments": "AA"
-    },
-    {
       "providerId": 1009,
       "providerName": "SUNY Binghamton",
       "address": "Johnson City, NY",
@@ -73,6 +67,12 @@
       "availableAppointments": "AA"
     },
     {
+      "providerId": 1002,
+      "providerName": "State Fair Expo Center: NYS Fairgrounds - 8:00am – 7:00pm",
+      "address": "Syracuse, NY",
+      "availableAppointments": "AA"
+    },
+    {
       "providerId": 1020,
       "providerName": "State Fair Expo Center: NYS Fairgrounds - 9:00pm – 6:00am",
       "address": "Syracuse, NY",
@@ -115,6 +115,12 @@
       "availableAppointments": "NAC"
     },
     {
+      "providerId": 1013,
+      "providerName": "**York College - Health and Physical Education Complex - Queens ",
+      "address": "Jamaica, NY",
+      "availableAppointments": "NAC"
+    },
+    {
       "providerId": 1007,
       "providerName": "Aqueduct Racetrack - Racing Hall",
       "address": "South Ozone Park, NY",
@@ -124,12 +130,6 @@
       "providerId": 1005,
       "providerName": "SUNY Stony Brook University Innovation and Discovery Center",
       "address": "Stony Brook, NY",
-      "availableAppointments": "NAC"
-    },
-    {
-      "providerId": 1002,
-      "providerName": "State Fair Expo Center: NYS Fairgrounds - 8:00am – 7:00pm",
-      "address": "Syracuse, NY",
       "availableAppointments": "NAC"
     },
     {
