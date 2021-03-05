@@ -1,6 +1,12 @@
 {
   "providerList": [
     {
+      "providerId": 1009,
+      "providerName": "SUNY Binghamton",
+      "address": "Johnson City, NY",
+      "availableAppointments": "AA"
+    },
+    {
       "providerId": 1008,
       "providerName": "Plattsburgh International Airport -Connecticut Building",
       "address": "Plattsburgh, NY",
@@ -70,12 +76,6 @@
       "providerId": 1013,
       "providerName": "**York College - Health and Physical Education Complex - Queens ",
       "address": "Jamaica, NY",
-      "availableAppointments": "NAC"
-    },
-    {
-      "providerId": 1009,
-      "providerName": "SUNY Binghamton",
-      "address": "Johnson City, NY",
       "availableAppointments": "NAC"
     },
     {
