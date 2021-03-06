@@ -13,6 +13,12 @@
       "availableAppointments": "AA"
     },
     {
+      "providerId": 1009,
+      "providerName": "SUNY Binghamton",
+      "address": "Johnson City, NY",
+      "availableAppointments": "AA"
+    },
+    {
       "providerId": 1008,
       "providerName": "Plattsburgh International Airport -Connecticut Building",
       "address": "Plattsburgh, NY",
@@ -70,12 +76,6 @@
       "providerId": 1012,
       "providerName": "Rochester Dome Arena",
       "address": "Henrietta, NY",
-      "availableAppointments": "NAC"
-    },
-    {
-      "providerId": 1009,
-      "providerName": "SUNY Binghamton",
-      "address": "Johnson City, NY",
       "availableAppointments": "NAC"
     },
     {
