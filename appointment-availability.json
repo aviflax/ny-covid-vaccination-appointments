@@ -1,6 +1,18 @@
 {
   "providerList": [
     {
+      "providerId": 1014,
+      "providerName": "**Medgar Evers College - Brooklyn",
+      "address": "Brooklyn, NY",
+      "availableAppointments": "AA"
+    },
+    {
+      "providerId": 1013,
+      "providerName": "**York College - Health and Physical Education Complex - Queens ",
+      "address": "Jamaica, NY",
+      "availableAppointments": "AA"
+    },
+    {
       "providerId": 1008,
       "providerName": "Plattsburgh International Airport -Connecticut Building",
       "address": "Plattsburgh, NY",
@@ -43,12 +55,6 @@
       "availableAppointments": "NAC"
     },
     {
-      "providerId": 1014,
-      "providerName": "**Medgar Evers College - Brooklyn",
-      "address": "Brooklyn, NY",
-      "availableAppointments": "NAC"
-    },
-    {
       "providerId": 1018,
       "providerName": "**Delavan Grider Community Center - Buffalo",
       "address": "Buffalo, NY",
@@ -64,12 +70,6 @@
       "providerId": 1012,
       "providerName": "Rochester Dome Arena",
       "address": "Henrietta, NY",
-      "availableAppointments": "NAC"
-    },
-    {
-      "providerId": 1013,
-      "providerName": "**York College - Health and Physical Education Complex - Queens ",
-      "address": "Jamaica, NY",
       "availableAppointments": "NAC"
     },
     {
