@@ -1,12 +1,6 @@
 {
   "providerList": [
     {
-      "providerId": 1018,
-      "providerName": "**Delavan Grider Community Center - Buffalo",
-      "address": "Buffalo, NY",
-      "availableAppointments": "AA"
-    },
-    {
       "providerId": 1013,
       "providerName": "**York College - Health and Physical Education Complex - Queens ",
       "address": "Jamaica, NY",
@@ -37,12 +31,6 @@
       "availableAppointments": "AA"
     },
     {
-      "providerId": 1015,
-      "providerName": "**New York National Guard Armory - Yonkers and Mount Vernon",
-      "address": "Yonkers, NY",
-      "availableAppointments": "AA"
-    },
-    {
       "providerId": 1016,
       "providerName": "**Washington Avenue Armory - Albany, Schenectady, Troy",
       "address": "Albany, NY",
@@ -64,6 +52,12 @@
       "providerId": 1014,
       "providerName": "**Medgar Evers College - Brooklyn",
       "address": "Brooklyn, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerId": 1018,
+      "providerName": "**Delavan Grider Community Center - Buffalo",
+      "address": "Buffalo, NY",
       "availableAppointments": "NAC"
     },
     {
@@ -142,6 +136,12 @@
       "providerId": 1004,
       "providerName": "Westchester County Center",
       "address": "White Plains, NY",
+      "availableAppointments": "NAC"
+    },
+    {
+      "providerId": 1015,
+      "providerName": "**New York National Guard Armory - Yonkers and Mount Vernon",
+      "address": "Yonkers, NY",
       "availableAppointments": "NAC"
     }
   ]
